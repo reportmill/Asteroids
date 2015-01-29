@@ -10,7 +10,7 @@ import java.awt.Color;
 public class Space extends World
 {
     private Counter scoreCounter;
-    private int startAsteroids = 3; // comment more more
+    private int startAsteroids = 3;
 
     public Space() 
     {
