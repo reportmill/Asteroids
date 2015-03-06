@@ -41,6 +41,11 @@ public class Asteroid extends SmoothMover
         move();
     }
 
+    public void act3()
+    {         
+        move();
+    }
+
     /**
      * Set the size of this asteroid. Note that stability is directly
      * related to size. Smaller asteroids are less stable.
