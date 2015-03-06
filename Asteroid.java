@@ -33,7 +33,7 @@ public class Asteroid extends SmoothMover
     
     public void act()
     {         
-        //move();
+        ///move();
     }
 
     /**
